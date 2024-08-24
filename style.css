@@ -1,15 +1,16 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
   }
 
   #search_bar {
-    border-radius: 11px !important;
+    border-radius: 9px !important;
   }
   #Login{
-    border-radius: 15%;
+    border-radius: 10%;
     color:#212529;
-    font-size: smaller;
+    font-size: 20px;
   }
   #cart{
    border-radius: 10px;
